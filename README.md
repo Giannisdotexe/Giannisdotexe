@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Giannisdotexe
-- 👀 I’m interested in Software Development (C#, Python) and Web Development (CSS, ReactJS, node.js etc..)
+- 👀 I’m interested in Software Development (C#, Python) and Full Stack Web Development (CSS, ReactJS, node.js etc..)
 - 🌱 I’m currently learning more Javascript technologies
 - 💞️ I’m looking to collaborate on anyhting
 - 📫 How to reach me? Just email me
